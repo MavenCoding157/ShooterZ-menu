@@ -15,9 +15,13 @@ To run the file simply open it in visual studio and set it to 'Release' and 'x86
 **WHAT THE MENU CAN DO**
 
 • ESP (with custom colours) ✔️
+
 • Radar hacks ✔️
+
 • Chams ✔️
+
 • bhop ✔️
+
 • Anti-Flash ✔️
 
 •FOV Circle (coming soon) ❌
