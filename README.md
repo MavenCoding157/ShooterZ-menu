@@ -1,7 +1,5 @@
 **DISCLAIMER I DO NOT CONDONE THE USE OF CHEATS. THIS JUST SHOWS HOW CHEATS WORK**
 
-![save](https://user-images.githubusercontent.com/117538886/213332686-c61d1177-2822-41be-9576-ebec9fee7f88.jpg)
-
 **THIS FILE IS ONLY INTENDED FOR WINDOWS**
 
 ![save](https://user-images.githubusercontent.com/117538886/213336208-3aa11bee-5201-45cd-b199-bf9ed3c7aa43.jpg)
