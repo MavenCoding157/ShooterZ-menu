@@ -30,3 +30,12 @@ To run the file simply open it in visual studio and set it to 'Release' and 'x86
 
 ![Screenshot (58)](https://user-images.githubusercontent.com/117538886/213336510-41881677-32e2-4816-a336-14f2a4f744e0.png)
 
+
+**AND LAST THING!!!**
+
+                      SUB TO MY CHANNEL
+==================================================
+
+-->https://www.youtube.com/channel/UCkP2YjZfvZIfArYbAUyRLsg<--
+
+==================================================
