@@ -2,7 +2,16 @@
 
 **THIS FILE IS ONLY INTENDED FOR WINDOWS**
 
-![save](https://user-images.githubusercontent.com/117538886/213336208-3aa11bee-5201-45cd-b199-bf9ed3c7aa43.jpg)
+**PHOTOS OF THE CHEAT MENU**
+
+![img](https://user-images.githubusercontent.com/117538886/213841344-7cdfac82-a5ca-4868-81bf-a3faef665b26.jpg)
+
+![susss](https://user-images.githubusercontent.com/117538886/213841348-4e0c0f83-7626-4415-9cca-474e7c11541e.jpg)
+
+![dada](https://user-images.githubusercontent.com/117538886/213841355-51341db2-d308-4896-9713-d5610f86f000.jpg)
+
+![sfss](https://user-images.githubusercontent.com/117538886/213841358-88da0cb9-3fe8-4806-b9ac-47d46b1051c0.jpg)
+
 
 **IMPORTANT**
 
