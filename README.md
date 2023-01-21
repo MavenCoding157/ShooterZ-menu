@@ -2,6 +2,7 @@
 
 **THIS FILE IS ONLY INTENDED FOR WINDOWS**
 
+
 **PHOTOS OF THE CHEAT MENU**
 
 ![img](https://user-images.githubusercontent.com/117538886/213841344-7cdfac82-a5ca-4868-81bf-a3faef665b26.jpg)
