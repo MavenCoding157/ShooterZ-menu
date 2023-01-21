@@ -34,6 +34,12 @@ To run the file simply open it in visual studio and set it to 'Release' and 'x86
 
 • Anti-Flash ✔️
 
+• FOV Changer ✔️
+
+• Thirdperson ✔️
+
+• Panic Button ✔️
+
 •FOV Circle (coming soon) ❌
 
 **THE CHEAT MENU IN ACTION**
