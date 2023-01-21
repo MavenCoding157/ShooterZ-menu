@@ -1,0 +1,10 @@
+﻿  gui.cpp
+C:\Users\PC\Desktop\cheat menu\cheat menu\cheat menu\cheat\gui.cpp(376,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  hacks.cpp
+  main.cpp
+  Generating code
+  1 of 1627 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    24 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  cheat menu.vcxproj -> C:\Users\PC\Desktop\cheat menu\cheat menu\Release\cheat menu.exe
