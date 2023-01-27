@@ -5,22 +5,37 @@
 
 **PHOTOS OF THE CHEAT MENU**
 
-![img](https://user-images.githubusercontent.com/117538886/213841344-7cdfac82-a5ca-4868-81bf-a3faef665b26.jpg)
+![sus](https://user-images.githubusercontent.com/117538886/215001239-a902e8ff-d8a8-4410-aa6a-5219f18eb3ef.jpg)
 
-![susss](https://user-images.githubusercontent.com/117538886/213841348-4e0c0f83-7626-4415-9cca-474e7c11541e.jpg)
+![2](https://user-images.githubusercontent.com/117538886/215001246-97c072fa-ee58-4e42-94dd-2b4ae3cb802d.jpg)
 
-![dada](https://user-images.githubusercontent.com/117538886/213841355-51341db2-d308-4896-9713-d5610f86f000.jpg)
+![3](https://user-images.githubusercontent.com/117538886/215001250-766cae68-339e-417a-adfb-13dcc110195c.jpg)
 
-![sfss](https://user-images.githubusercontent.com/117538886/213841358-88da0cb9-3fe8-4806-b9ac-47d46b1051c0.jpg)
+![4](https://user-images.githubusercontent.com/117538886/215001261-29980134-9694-4baa-83c3-98d4697a94dd.jpg)
+
+![5](https://user-images.githubusercontent.com/117538886/215001268-d4e4fb63-180f-4d9f-9535-45c1b26cfb84.jpg)
+
+![6](https://user-images.githubusercontent.com/117538886/215001281-bb910b69-e5bb-430c-aaae-2562382967d9.jpg)
+
+![7](https://user-images.githubusercontent.com/117538886/215001286-c1220ba0-f265-4268-bebc-2f9adef64b77.jpg)
+
+![8](https://user-images.githubusercontent.com/117538886/215001292-cd8a6b2d-9308-4032-bd78-2b7478ddd038.jpg)
+
+![9](https://user-images.githubusercontent.com/117538886/215001300-9f7e2bbd-6677-42ed-962e-2775e877bb4d.jpg)
 
 
 **IMPORTANT**
-
-Make sure to re-name the main file (the file itself with everything in, not the exe) to 'cheat menu' as it saves as 'legit-csgo-cheat-menu-main'
+I do not recommend this cheat for rage cheating or ect. This is only designed for legit cheating.
 
 **TO RUN THE FILE**
 
 To run the file simply open it in visual studio and set it to 'Release' and 'x86' then just build it and it should work perfectly
+
+**SPECIAL THANK YOU**
+
+Thank you to cazz link below as i made the menu myself but i implemented his menus style onto mine
+
+Link to original menu style: https://github.com/cazzwastaken/externalia
 
 **WHAT THE MENU CAN DO**
 
@@ -40,7 +55,13 @@ To run the file simply open it in visual studio and set it to 'Release' and 'x86
 
 • Panic Button ✔️
 
-•FOV Circle (coming soon) ❌
+• Third Person ✔️
+
+• Third Person FOV ✔️
+
+• Two basic configs ✔️
+
+• csgo status checker (only works if csgo has been started before launching the script) ✔️
 
 **THE CHEAT MENU IN ACTION**
 
