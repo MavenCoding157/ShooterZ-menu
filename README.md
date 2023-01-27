@@ -32,6 +32,8 @@ This is an external cheat, so no need to inject it.
 
 This is not the final build and as a matter of fact this is only a prototype so expect more updated versions to be made in the future.
 
+This is my first Cheat so it may have some bugs, but i will work to fix them.
+
 **TO RUN THE FILE**
 
 To run the file simply open it in visual studio and set it to 'Release' and 'x86' then just build it and it should work perfectly
